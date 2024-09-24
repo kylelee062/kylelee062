@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @kylelee062
-- 👀 I’m interested in music, coding, spikeball
-- 🌱 I’m currently learning Python and Java
+- 👀 I’m interested in music, coding, and volleyball
+- 🌱 I’m currently learning Python, Java, C/C++, and more
 - 📫 How to reach me kylelee062@gmail.com
 
 <!---
